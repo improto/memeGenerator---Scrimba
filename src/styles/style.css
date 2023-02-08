@@ -1,0 +1,83 @@
+
+
+.appMain{
+    max-width: 550px;
+    font-family: 'Karla', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header--main{
+    display: flex;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    height: 55px;
+    color: white;
+}
+
+.header--logo{
+    display: flex;
+    margin: 10px;
+    padding-left: 10px;
+}
+
+.header-data{
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 25px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+}
+
+.header-title{
+    font-size: 20.75px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3px;
+}
+
+.header--img{
+    width: 31.31px;
+    height: 26.22px;
+}
+
+.meme-main{
+    padding: 30px;
+    max-width: 490px
+}
+
+.meme-text{
+    display: flex;
+    gap:20px;
+    
+}
+
+.form-data{
+    border-radius: 5px;
+    border: 1px solid #D5D4D8;
+    text-indent: 5px;
+    height: 35px;
+    width: 230px;
+    font-family: 'Karla', sans-serif;
+    
+}
+
+.meme-button{
+    height: 40px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    border-radius: 5px;
+    color: white;
+    font-family: 'Karla', sans-serif;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.meme-image {
+    margin-top: 40px;
+    width: 490px;
+    height: fit-content;
+}
+
